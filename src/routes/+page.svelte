@@ -1,5 +1,3 @@
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
-
 <p>Estilo de Escritura: Moderno;</p><br>
 <p>Idioma: Español;</p><br>
 <p>Tono de voz: Informal, divertido;</p><br>
